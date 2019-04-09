@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Youtube App</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="msg_connection_lost">Connection Lost</string>
+    <string name="msg_data_downloading_break">Not Available Data</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="msg_item_text_title">Worlds best surfing 2017</string>
+    <string name="msg_text_view_chanel_title">Monthly Winners</string>
+    <string name="msg_search">Search</string>
+    <string name="title_search">Search</string>
+    <string name="msg_time_watch">0:00</string>
+    <string name="msg_time_play">0:00</string>
+    <string name="msg_publish_time">1 year ago</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_ok">OK</string>
+    <string name="msg_response_code_403">Api Key is not available</string>
+    <string name="msg_response_code">Code :</string>
+</resources>
